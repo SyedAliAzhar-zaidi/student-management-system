@@ -1,12 +1,16 @@
 # Student Management System
 
-A Python program to manage student records using CRUD operations.
+A Python command-line application to manage student records using CRUD operations.
 
 ## Features
 - Add students
-- View students
-- Search students
+- View all students
+- Search students by ID
 - Delete students
 
-## How to run
+## Tech Stack
+- Python
+- File handling
+
+## How to Run
 python student_system.py
